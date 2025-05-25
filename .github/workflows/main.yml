@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: 23f2000226@ds.study.iitm.ac.in
         run: echo "Hello, world!"
+      - name: 23f2001449@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
